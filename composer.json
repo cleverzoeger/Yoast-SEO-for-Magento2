@@ -1,5 +1,5 @@
 {
-  "name": "maxserv/magento-module-yoastseo",
+  "name": "cleverzoeger/magento-module-yoastseo",
   "description": "Yoast SEO integration by MaxServ",
   "require": {
     "magento/framework": "^101.0|^102.0",
